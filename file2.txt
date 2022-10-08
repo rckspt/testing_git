@@ -1,1 +1,2 @@
 menambah file2.txt
+rubah file2.txt
